@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/my-site/', 
+  base: '/nha-web/', 
   title: "NohackAnarchy",
   description: "チート以外ありのアナーキーサーバー",
   head: [
