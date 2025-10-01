@@ -14,6 +14,3 @@ entity-activation-range:
     flying-monsters: 8
 
 ```
-::: tip ヒント
-不定期に更新される可能性にご留意ください
-:::
