@@ -3,9 +3,11 @@
 layout: home
 
 hero:
-  name: "my test"
+  name: "home"
   text: "a vitepress"
   tagline: My great project tagline
+  image:
+    src: /logo.png
   actions:
     - theme: brand
       text: Markdown Examples
