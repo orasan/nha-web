@@ -5,8 +5,13 @@ export default defineConfig({
   title: "my test",
   description: "a vitepress",
   base: '/my-site/',
+  head: [
+    ['link', {rel: 'icon', href: '/my-site/favicon.ico'}]
+  ],
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
