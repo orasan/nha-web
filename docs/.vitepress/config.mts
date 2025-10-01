@@ -67,8 +67,8 @@ export default defineConfig({
         
         nav: [
           { text: 'ホーム', link: '/' },
-          { text: 'ルール', link: '/ja/rules' },
-          { text: '参加方法', link: '/ja/join' },
+          { text: 'ルール', link: '/rules' },
+          { text: '参加方法', link: '/join' },
         ],
         
         socialLinks: [
@@ -79,16 +79,15 @@ export default defineConfig({
           {
             text: 'はじめに',
             items: [
-              { text: '参加方法', link: '/ja/join' },
-              { text: 'ルール', link: '/ja/rules' },
+              { text: '参加方法', link: '/join' },
+              { text: 'ルール', link: '/rules' },
             ]
           },
           {
             text: '仕様',
-            collapsed: false,
             items: [
-              { text: 'モブ', link: '/ja/mob' },
-              { text: 'ワールド', link: '/ja/World' },
+              { text: 'モブ', link: '/mob' },
+              { text: 'ワールド', link: '/World' },
             ]
           }
         ],
@@ -132,7 +131,6 @@ export default defineConfig({
           },
           {
             text: 'Specification',
-            collapsed: false,
             items: [
               { text: 'Mobs', link: '/en/mob' },
               { text: 'World', link: '/en/World' },
