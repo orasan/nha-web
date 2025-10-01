@@ -3,25 +3,23 @@
 layout: home
 
 hero:
-  name: "home"
-  text: "a vitepress"
-  tagline: My great project tagline
+  name: "Nohackanarchy"
+  text: "チートなしアナーキーサーバー"
+  tagline: バニラ/サバイバルサーバー
   image:
     src: /logo.png
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 参加
+      link: /join
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: ルール
+      link: /rules
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
----
+  - title: 🍨　バニラサバイバル
+    details: バニラエクスペリエンスを保つことを目標にしています
+  - title: 🎮　クロスプレイ対応
+    details: Switch、PS4/PS5やXBOXなどにも対応してます
+--- 
 
