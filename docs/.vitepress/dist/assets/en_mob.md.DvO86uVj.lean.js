@@ -1,0 +1,1 @@
+import{_ as a,c as n,o as e,ag as p}from"./chunks/framework.D5vocHsp.js";const u=JSON.parse('{"title":"Mobs spawn","description":"","frontmatter":{},"headers":[],"relativePath":"en/mob.md","filePath":"en/mob.md"}'),t={name:"en/mob.md"};function l(i,s,o,c,r,d){return e(),n("div",null,[...s[0]||(s[0]=[p("",4)])])}const _=a(t,[["render",l]]);export{u as __pageData,_ as default};

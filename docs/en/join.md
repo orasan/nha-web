@@ -8,7 +8,7 @@ NohackAnarchy:3008
 ```
 - **version**: 
     - Java `1.13-1.21.8`
-    - Bedrock `1.21.70-1.21.101`
+    - Bedrock `1.21.90-1.21.111`
 ::: info
 If you are playing the integrated version, we recommend the latest version.
 :::

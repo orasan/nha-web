@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as s,ag as l}from"./chunks/framework.D5vocHsp.js";const m=JSON.parse('{"title":"Rules","description":"","frontmatter":{},"headers":[],"relativePath":"en/rules.md","filePath":"en/rules.md"}'),i={name:"en/rules.md"};function r(o,e,n,c,u,d){return s(),a("div",null,[...e[0]||(e[0]=[l("",8)])])}const p=t(i,[["render",r]]);export{m as __pageData,p as default};

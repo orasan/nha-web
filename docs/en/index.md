@@ -15,8 +15,14 @@ hero:
       link: /en/rules
 
 features:
-  - title: 🍨　Vanilla survival
+  - title: Vanilla survival
+    icon: 🍨
     details: Our goal is to keep the experience vanilla
-  - title: 🎮　Cross-play support
+  - title: Cross-play support
+    icon: 🎮
     details: Compatible with Switch, PS4/PS5, XBOX, etc.
+  - title: Admin
+    icon:  "👤"
+    details: orasan
+    link: https://x.com/ora888a
 ---
