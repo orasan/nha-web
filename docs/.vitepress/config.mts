@@ -9,6 +9,7 @@ export default defineConfig({
   ],
 
   themeConfig: {
+    
     logo: '/logo.png',
     nav: [
       { text: 'ホーム', link: '/' },
