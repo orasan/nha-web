@@ -89,6 +89,13 @@ export default defineConfig({
               { text: 'モブ', link: '/mob' },
               { text: 'ワールド', link: '/World' },
             ]
+          },
+          {
+            text: 'その他',
+            items: [
+              { text: 'よくある質問', link: '/qa' },
+              { text: '支援', link: '/donor' },
+            ]
           }
         ],
         
@@ -135,7 +142,15 @@ export default defineConfig({
               { text: 'Mobs', link: '/en/mob' },
               { text: 'World', link: '/en/World' },
             ]
+          },
+          {
+            text: 'others',
+            items: [
+              { text: 'Q&A', link: '/en/qa' },
+              { text: 'support', link: '/en/donor' },
+            ]
           }
+
         ],
         
         footer: {

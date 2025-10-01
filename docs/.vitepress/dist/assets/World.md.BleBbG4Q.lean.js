@@ -1,1 +1,0 @@
-import{_ as e,c as t,o,ag as s}from"./chunks/framework.D5vocHsp.js";const u=JSON.parse('{"title":"ワールド","description":"","frontmatter":{},"headers":[],"relativePath":"World.md","filePath":"World.md"}'),l={name:"World.md"};function i(c,a,d,r,n,p){return o(),t("div",null,[...a[0]||(a[0]=[s("",6)])])}const h=e(l,[["render",i]]);export{u as __pageData,h as default};

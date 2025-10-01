@@ -1,0 +1,1 @@
+import{_ as o,c as a,o as t,ag as l}from"./chunks/framework.tRyOS2JN.js";const u=JSON.parse('{"title":"World","description":"","frontmatter":{},"headers":[],"relativePath":"en/World.md","filePath":"en/World.md"}'),d={name:"en/World.md"};function s(i,e,r,n,c,p){return t(),a("div",null,[...e[0]||(e[0]=[l("",6)])])}const _=o(d,[["render",s]]);export{u as __pageData,_ as default};

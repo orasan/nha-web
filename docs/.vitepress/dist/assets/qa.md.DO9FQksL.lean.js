@@ -1,0 +1,1 @@
+import{_ as e,c as r,o as t,ag as o}from"./chunks/framework.tRyOS2JN.js";const b=JSON.parse('{"title":"Q&A","description":"","frontmatter":{},"headers":[],"relativePath":"qa.md","filePath":"qa.md"}'),h={name:"qa.md"};function i(d,a,l,n,c,s){return t(),r("div",null,[...a[0]||(a[0]=[o("",24)])])}const q=e(h,[["render",i]]);export{b as __pageData,q as default};

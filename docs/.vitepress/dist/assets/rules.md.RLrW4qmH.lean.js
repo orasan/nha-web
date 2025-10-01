@@ -1,0 +1,1 @@
+import{_ as e,c as l,o as t,ag as r}from"./chunks/framework.tRyOS2JN.js";const p=JSON.parse('{"title":"ルール","description":"","frontmatter":{},"headers":[],"relativePath":"rules.md","filePath":"rules.md"}'),i={name:"rules.md"};function o(s,a,n,c,_,d){return t(),l("div",null,[...a[0]||(a[0]=[r("",5)])])}const m=e(i,[["render",o]]);export{p as __pageData,m as default};

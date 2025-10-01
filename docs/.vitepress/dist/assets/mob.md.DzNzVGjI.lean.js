@@ -1,0 +1,1 @@
+import{_ as s,c as n,o as e,ag as p}from"./chunks/framework.tRyOS2JN.js";const _=JSON.parse('{"title":"モブのスポーン","description":"","frontmatter":{},"headers":[],"relativePath":"mob.md","filePath":"mob.md"}'),t={name:"mob.md"};function l(i,a,o,c,r,d){return e(),n("div",null,[...a[0]||(a[0]=[p("",3)])])}const u=s(t,[["render",l]]);export{_ as __pageData,u as default};

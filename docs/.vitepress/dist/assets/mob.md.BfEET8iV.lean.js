@@ -1,1 +1,0 @@
-import{_ as a,c as n,o as p,ag as e}from"./chunks/framework.D5vocHsp.js";const _=JSON.parse('{"title":"モブのスポーン","description":"","frontmatter":{},"headers":[],"relativePath":"mob.md","filePath":"mob.md"}'),t={name:"mob.md"};function l(i,s,c,o,r,d){return p(),n("div",null,[...s[0]||(s[0]=[e("",4)])])}const u=a(t,[["render",l]]);export{_ as __pageData,u as default};

@@ -1,0 +1,1 @@
+import{_ as l,c as i,o as e,ag as o}from"./chunks/framework.tRyOS2JN.js";const p=JSON.parse('{"title":"参加方法","description":"","frontmatter":{},"headers":[],"relativePath":"join.md","filePath":"join.md"}'),t={name:"join.md"};function r(c,a,s,d,n,h){return e(),i("div",null,[...a[0]||(a[0]=[o("",18)])])}const b=l(t,[["render",r]]);export{p as __pageData,b as default};

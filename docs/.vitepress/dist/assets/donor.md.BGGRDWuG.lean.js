@@ -1,0 +1,1 @@
+import{_ as o,c as l,o as r,ag as t}from"./chunks/framework.tRyOS2JN.js";const p=JSON.parse('{"title":"サーバー支援について","description":"","frontmatter":{},"headers":[],"relativePath":"donor.md","filePath":"donor.md"}'),i={name:"donor.md"};function e(s,a,c,n,d,u){return r(),l("div",null,[...a[0]||(a[0]=[t("",11)])])}const m=o(i,[["render",e]]);export{p as __pageData,m as default};
