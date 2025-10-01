@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -17,9 +16,15 @@ hero:
       link: /rules
 
 features:
-  - title: 🍨　バニラサバイバル
+  - title: バニラサバイバル
+    icon: 🍨
     details: バニラエクスペリエンスを保つことを目標にしています
-  - title: 🎮　クロスプレイ対応
+  - title: クロスプレイ対応
+    icon: 🎮
     details: Switch、PS4/PS5やXBOXなどにも対応してます
+  - title: 管理者
+    icon:  "👤"
+    details: orasan
+    link: https://x.com/ora888a
 --- 
 
