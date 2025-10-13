@@ -2,15 +2,20 @@
 
 ## Connection Information
 
-- **Server Address**: 
+**Server Address**
+- Java
 ```
 nohackanarchy.net:3021
 ```
+Bedrock
+```
+be.nohackanarchy.net:3021
+```
 - **version**: 
     - Java `1.13-1.21.10`
-    - Bedrock `1.21.90-1.21.113`
+    - Bedrock `1.21.90-1.21.x`
 ::: info
-If you are playing the integrated version, we recommend the latest version.
+For a smoother experience, we recommend 1.21.8 or higher.
 :::
 
 ## Participation Procedure
