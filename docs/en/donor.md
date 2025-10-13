@@ -20,7 +20,7 @@
 - We will not issue refunds for any reason, including customer errors or mistakes. <br>
 - Please carefully review the reward details before supporting us. If you have any questions, please contact us in advance.
 :::
-::: warning その他注意点
+::: warning 
 ・Support is optional, not mandatory.  
 ・The rewards may change due to changes in server specifications.  
 ・Rewards may be revoked in the event of fraudulent activity or rule violations.  
