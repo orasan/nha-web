@@ -4,11 +4,11 @@
 
 - **Server Address**: 
 ```
-NohackAnarchy:3008
+nohackanarchy.net:3021
 ```
 - **version**: 
-    - Java `1.13-1.21.8`
-    - Bedrock `1.21.90-1.21.111`
+    - Java `1.13-1.21.9`
+    - Bedrock `1.21.90-1.21.113`
 ::: info
 If you are playing the integrated version, we recommend the latest version.
 :::
