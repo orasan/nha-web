@@ -7,7 +7,7 @@
 nohackanarchy.net:3021
 ```
 - **version**: 
-    - Java `1.13-1.21.9`
+    - Java `1.13-1.21.10`
     - Bedrock `1.21.90-1.21.113`
 ::: info
 If you are playing the integrated version, we recommend the latest version.
