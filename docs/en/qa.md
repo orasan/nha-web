@@ -36,3 +36,5 @@ The world I inherited started on `2025-04-18`.
 ### Do you have Discord?
 
 https://discord.gg/CzfGwv2wPM
+### Can't get onto the bedrock of the Nether!
+We're currently working on a solution to prevent lag.
