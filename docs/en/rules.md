@@ -1,6 +1,6 @@
 # Rules
 
-## Basic Rules
+## Prohibited acts
 1. Use of cheats or hacked clients
 - Xraying using resource packs, etc. is also not permitted
 - EXP shower (rapid use of experience bottles) is currently prohibited, although it does not provide any significant advantage.
