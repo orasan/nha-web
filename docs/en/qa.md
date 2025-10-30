@@ -27,14 +27,18 @@ In-game compensation is generally not provided.
 ### Will there be a world reset?
 
 No. However, if due to my carelessness or for some other reason the world needs to be reset, I apologize, but there is a possibility that it may be reset.
-### How many players can the server accommodate?
-
-20 players.
 ### When was the server established?
 
 The world I inherited started on `2025-04-18`.
+
 ### Do you have Discord?
 
 https://discord.gg/CzfGwv2wPM
 ### Can't get onto the bedrock of the Nether!
 We're currently working on a solution to prevent lag.
+
+### Available Commands?
+- `/tell`
+    - Sends a personalized message
+- `/suicide`
+    - prevents stacking

@@ -8,21 +8,23 @@
  2. Name color displayed in the tab list (gold)
  3. Nameplate color (gold)
  4. Exclusive role within Discord
+ - The following benefits may be subject to **change** (currently permanent)
+ 1. Priority Server Connection
 ::: warning
-・Benefits apply to one Discord account and one Minecraft account per person.<br>
-・Please refrain from claiming benefits using multiple accounts.
+Benefits apply to one Discord account and one Minecraft account per person.<br>
+Please refrain from claiming benefits using multiple accounts.
 :::
 ## How to support
 - Currently, only Amazon Gift Cards are available.
 - Create a ticket on Discord or send a digital gift directly to the email address `Nohackanarchy@proton.me`.
 - Please let us know your donation amount and MCID (or your Discord ID if sending by email). We will apply the rewards after confirmation.
 ::: danger Refund Policy
-- We will not issue refunds for any reason, including customer errors or mistakes. <br>
-- Please carefully review the reward details before supporting us. If you have any questions, please contact us in advance.
+We will not issue refunds for any reason, including customer errors or mistakes. <br>
+Please carefully review the reward details before supporting us. If you have any questions, please contact us in advance.
 :::
 ::: warning 
-・Support is optional, not mandatory.  
-・The rewards may change due to changes in server specifications.  
-・Rewards may be revoked in the event of fraudulent activity or rule violations.  
-・Rewards may take up to 24 hours to be applied (the rewards will be granted manually when you join the server, so please remain joined and wait).  
+Support is optional, not mandatory.  
+The rewards may change due to changes in server specifications.  
+Rewards may be revoked in the event of fraudulent activity or rule violations.  
+Rewards may take up to 24 hours to be applied (the rewards will be granted manually when you join the server, so please remain joined and wait).  
 :::

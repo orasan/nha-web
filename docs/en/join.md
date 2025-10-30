@@ -13,7 +13,7 @@ be.nohackanarchy.net:3021
 ```
 - **version**: 
     - Java `1.13-1.21.10`
-    - Bedrock `1.21.90-1.21.x`
+    - Bedrock `Latest version`
 ::: info
 For a smoother experience, we recommend 1.21.8 or higher.
 :::
